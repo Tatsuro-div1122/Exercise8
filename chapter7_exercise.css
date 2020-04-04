@@ -24,13 +24,31 @@
   font-size: 32px;
 }
 
-.content {
+main {
   width: 840px;
-  margin: 0 auto;
-  padding: 20px 0 0 50px;
+  margin: 50px auto;
 }
 
-.content-item {
-  padding: 50px 0;
+.content-item1 {
+  padding-bottom: 30px;
   border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
+
+.content-item2  {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
+
+.content-item3 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
+
+.content-item4 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
 }
